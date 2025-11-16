@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+*.wav
+*.mp3
+*.dylib
+*.so
+*.bin
+*.zip
+*.tar
+*.whl

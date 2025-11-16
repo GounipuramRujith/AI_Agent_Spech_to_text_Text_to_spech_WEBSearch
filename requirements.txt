@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+requests
+beautifulsoup4
+langchain==1.0.3
+langchain-core
+langchain-community
+langchain-text-splitters
+transformers
+torch
+spacy
+networkx
+sentence-transformers
